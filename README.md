@@ -3,7 +3,7 @@
         <h3>👩‍ Hi there 👋, I’m <a href="www.linkedin.com/in/haothv" rel="nofollow" target="blank">Hao Vo</a></h3>
         <details open="">
             <summary>
-                <b>My Profile</b>
+                <b>About Me</b>
             </summary
             <p dir="auto">
             <ul>Result-oriented quality assurance management professional with 7+ years expertise in a fast-paced
@@ -69,7 +69,7 @@
                 <tr>
                     <td>👉 Operating System</td>
                     <td>
-                        <p><img src="/badges/ios.svg?&style=for-the-badge&logo=ios&logoColor=white"
+                        <p><img src="/badges/ios1.svg?&style=for-the-badge&logo=ios&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/android.svg?&style=for-the-badge&logo=android&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
@@ -121,7 +121,7 @@
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/visualstudio.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/adnroidstudio.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"
+                                src="/badges/androidstudio.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/xcode.svg?&style=for-the-badge&logo=Xcode&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
