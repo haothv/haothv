@@ -1,6 +1,6 @@
 <div class="Box-body px-5 pb-5" data-target="readme-toc.content">
     <article class="markdown-body entry-content container-lg" itemprop="text">
-        <h3>👩‍ Hi there 👋, I’m <a href="www.linkedin.com/in/haothv" rel="nofollow" target="blank">Hao Vo</a></h3>
+        <h3>👩‍ Hi there 👋, I’m <a href="https://www.linkedin.com/in/haothv" rel="nofollow" target="blank">Hao Vo</a></h3>
         <details open="">
             <summary>
                 <b>About Me</b>
