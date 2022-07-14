@@ -29,7 +29,7 @@
                 <tr>
                     <td>👉 API Testing</td>
                     <td>
-                        <p><img src="/badges/restapi.svg?&style=for-the-badge&logo=RestApi&logoColor=white"
+                        <p><img src="/badges/restapi.png?&style=for-the-badge&logo=RestApi&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/websocket.svg?&style=for-the-badge&logo=Websocket&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
@@ -41,13 +41,13 @@
                 <tr>
                     <td>👉 Testing Tools & Framework</td>
                     <td>
-                        <p><img src="/badges/selenium.svg?&style=for-the-badge&logo=Selenium&logoColor=white"
+                        <p><img src="/badges/selenium.png?&style=for-the-badge&logo=Selenium&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/cucumber.svg?&style=for-the-badge&logo=Cucumber&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/postman.svg?&style=for-the-badge&logo=Postman&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/robotframework.svg?&style=for-the-badge&logo=RobotFramework&logoColor=white"
+                                src="/badges/robotframework.png?&style=for-the-badge&logo=RobotFramework&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
                         </p>
                     </td>
@@ -57,7 +57,7 @@
                     <td>
                         <p><img src="/badges/mysql.svg?&style=for-the-badge&logo=mysql&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/metabase.svg?&style=for-the-badge&logo=metabase&logoColor=white"
+                                src="/badges/metabase.png?&style=for-the-badge&logo=metabase&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"><img
                                 src="/badges/datadog.svg?&style=for-the-badge&logo=datadog&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
@@ -69,15 +69,15 @@
                 <tr>
                     <td>👉 Operating System</td>
                     <td>
-                        <p><img src="/badges/ios1.svg?&style=for-the-badge&logo=ios&logoColor=white"
+                        <p><img src="/badges/ios1.png?&style=for-the-badge&logo=ios&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/android.svg?&style=for-the-badge&logo=android&logoColor=white"
+                                src="/badges/android.png?&style=for-the-badge&logo=android&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/macos.svg?&style=for-the-badge&logo=macos&logoColor=white"
+                                src="/badges/macos.png?&style=for-the-badge&logo=macos&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/windows.svg?&style=for-the-badge&logo=windows&logoColor=white"
+                                src="/badges/windows.png?&style=for-the-badge&logo=windows&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/linux.svg?&style=for-the-badge&logo=linux&logoColor=white"
+                                src="/badges/linux.png?&style=for-the-badge&logo=linux&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
                         </p>
                     </td>
@@ -85,9 +85,9 @@
                 <tr>
                     <td>👉 Programing Language</td>
                     <td>
-                        <p><img src="/badges/java.svg?&style=for-the-badge&logo=java&logoColor=white"
+                        <p><img src="/badges/java.png?&style=for-the-badge&logo=java&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/c.svg?&style=for-the-badge&logo=c++&logoColor=white"
+                                src="/badges/c.png?&style=for-the-badge&logo=c++&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
                         </p>
                     </td>
@@ -95,7 +95,7 @@
                 <tr>
                     <td>👉 CI/CD</td>
                     <td>
-                        <p><img src="/badges/git.svg?&style=for-the-badge&logo=git&logoColor=white"
+                        <p><img src="/badges/git.png?&style=for-the-badge&logo=git&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/jenkins.svg?&style=for-the-badge&logo=jenkins&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
@@ -107,9 +107,9 @@
                     <td>
                         <p><img src="/badges/jira.svg?&style=for-the-badge&logo=jira&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/confluence.svg?&style=for-the-badge&logo=confluence&logoColor=white"
+                                src="/badges/confluence.png?&style=for-the-badge&logo=confluence&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/testlink.svg?&style=for-the-badge&logo=testlink&logoColor=white"
+                                src="/badges/testlink.png?&style=for-the-badge&logo=testlink&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
                         </p>
                     </td>
@@ -117,13 +117,13 @@
                 <tr>
                     <td>👉 IDEA</td>
                     <td>
-                        <p><img src="/badges/intellij.svg?&style=for-the-badge&logo=IntelliJ&logoColor=white"
+                        <p><img src="/badges/intellij.png?&style=for-the-badge&logo=IntelliJ&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/visualstudio.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
                                 src="/badges/androidstudio.svg?&style=for-the-badge&logo=AndroidStudio&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48"> <img
-                                src="/badges/xcode.svg?&style=for-the-badge&logo=Xcode&logoColor=white"
+                                src="/badges/xcode.png?&style=for-the-badge&logo=Xcode&logoColor=white"
                                 style="max-width: 100%;" width="48" height="48">
                         </p>
                     </td>
