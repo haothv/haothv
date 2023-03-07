@@ -6,7 +6,7 @@
                 <b>About Me</b>
             </summary
             <p dir="auto">
-            <ul>Result-oriented quality assurance management professional with 7+ years expertise in a fast-paced
+            <ul>Result-oriented quality assurance management professional with years expertise in a fast-paced
                 application development life cycle. Able to train, lead and motivate effective cross functional teams,
                 acting as a test liaison between Product Delivery and Test teams.
             </ul>
